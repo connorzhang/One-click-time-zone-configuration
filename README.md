@@ -2,7 +2,7 @@
 One-click time zone configuration
  ## use
  ```
- bash <(curl -s -S -L https://github.com/lanyeit/One-click-time-zone-configuration/raw/main/README.md)
+ bash <(curl -s -S -L https://github.com/lanyeit/One-click-time-zone-configuration/raw/main/octzc.sh)
  ```
  ## spare
  ```
